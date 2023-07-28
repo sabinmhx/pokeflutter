@@ -2,6 +2,8 @@
 
 📱 Install PokeFlutter now and start your journey to become a Pokemon Master! Gotta catch 'em all! 🌟
 
+<img align="right" src="images/screenshots/icon.png" height="190"></img>
+
 ## Introduction
 
 Pokeflutter is a mobile application developed using Flutter that brings the world of Pokemon to your fingertips. It allows users to explore the vast collection of Pokemon creatures, learn about their characteristics. Whether you're a seasoned Pokemon Trainer or a curious explorer, PokeFlutter promises an exciting and immersive experience.
@@ -70,6 +72,15 @@ PokeFlutter uses the following main dependencies:
 - [cached_network_image](https://pub.dev/packages/cached_network_image) - Caching network images to improve performance.
 
 For a complete list of dependencies, check the `pubspec.yaml` file.
+
+## Screenshots
+
+<p float="left">
+    <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_loading_screen.png" width="200" height="400"/>
+    <img alt="Home Screen 1" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_home_page.png" width="200" height="400"/>
+    <img alt="Home Screen 2" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_details_page.png" width="200" height="400"/>
+</p>
+
 
 ## 🤝Contribution
 
