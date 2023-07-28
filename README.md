@@ -2,7 +2,7 @@
 
 📱 Install PokeFlutter now and start your journey to become a Pokemon Master! Gotta catch 'em all! 🌟
 
-<img align="center" alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/icon.png" height="190"/>
+<img align="right" alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/icon.png" height="190"/>
 
 
 ## Introduction
