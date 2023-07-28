@@ -2,7 +2,8 @@
 
 📱 Install PokeFlutter now and start your journey to become a Pokemon Master! Gotta catch 'em all! 🌟
 
-<img align="right" src="images/screenshots/icon.png" height="190"></img>
+<img align="center" alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/icon.png" height="190"/>
+
 
 ## Introduction
 
@@ -76,9 +77,9 @@ For a complete list of dependencies, check the `pubspec.yaml` file.
 ## Screenshots
 
 <p float="left">
-    <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_loading_screen.png" width="200" height="400"/>
-    <img alt="Home Screen 1" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_home_page.png" width="200" height="400"/>
-    <img alt="Home Screen 2" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/assets/screenshots/pokeflutter_details_page.png" width="200" height="400"/>
+    <img alt="Loading Screen" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/screenshots/pokeflutter_loading_screen.png" width="200" height="400"/>
+    <img alt="Home Page" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/screenshots/pokeflutter_home_page.png" width="200" height="400"/>
+    <img alt="Details Page" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/images/screenshots/pokeflutter_details_page.png" width="200" height="400"/>
 </p>
 
 
