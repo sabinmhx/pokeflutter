@@ -97,6 +97,6 @@ PokeFlutter is open-source and released under the [MIT License](LICENSE).
 
 ## 📧Contact
 
-For any questions or inquiries, please contact us at sainmhx@gmail.com.
+For any questions or inquiries, please contact us at sabinmhx@gmail.com.
 
 Enjoy exploring the Pokemon world with PokeFlutter! Gotta catch 'em all! 🌟
