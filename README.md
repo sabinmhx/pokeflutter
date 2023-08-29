@@ -89,7 +89,7 @@ Contributions to PokeFlutter are welcome! If you find any issues or want to add 
 
 ## 📄License
 
-PokeFlutter is open-source and released under the [MIT License](LICENSE).
+PokeFlutter is open source and released under the [MIT License](LICENSE).
 
 ## 🙏Credits
 
