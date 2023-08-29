@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Pokeflutter is a mobile application developed using Flutter that brings the world of Pokemon to your fingertips. It allows users to explore the vast collection of Pokemon creatures, learn about their characteristics. Whether you're a seasoned Pokemon Trainer or a curious explorer, PokeFlutter promises an exciting and immersive experience.
+Pokeflutter is a mobile application developed using Flutter that brings the world of Pokemon to your fingertips. It allows users to explore the vast collection of Pokemon creatures, learn about their characteristics. Whether you're a seasoned Pokemon Trainer or a Curious Explorer, PokeFlutter promises an exciting and immersive experience.
 
 ## 🚀Features
 
