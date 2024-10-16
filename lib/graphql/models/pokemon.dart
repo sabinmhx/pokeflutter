@@ -1,7 +1,3 @@
-// To parse this JSON data, do
-//
-//     final pokemonModel = pokemonModelFromJson(jsonString);
-
 class Pokemon {
   final String id;
   final String number;

@@ -1,4 +1,5 @@
-String queries = r'''
+class Queries {
+  static String pokemon = r'''
       query pokemons($first: Int!){
           pokemons(first: $first){
             id
@@ -23,3 +24,4 @@ String queries = r'''
           }
       }
     ''';
+}

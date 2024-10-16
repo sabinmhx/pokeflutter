@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
-import 'app/widgets/fetch_more_widget.dart';
+import 'package:graphql_flutter/graphql_flutter.dart';
+import 'package:pokemon_app_graphql/service/api_service.dart';
+import 'package:pokemon_app_graphql/view/splash_view.dart';
 
 void main() {
-   // For disabling landscape view
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations(
     [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown],
@@ -17,14 +17,31 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Pokémon App',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
-        useMaterial3: true,
+    return GraphQLProvider(
+      client: ApiService.createClient(),
+      child: CacheProvider(
+        child: MaterialApp(
+          title: 'Pokémon App',
+          debugShowCheckedModeBanner: false,
+          theme: ThemeData(
+            colorScheme: ColorScheme.fromSeed(seedColor: Colors.white),
+            scaffoldBackgroundColor: Colors.white,
+            appBarTheme: AppBarTheme(
+              centerTitle: true,
+              scrolledUnderElevation: 0,
+              foregroundColor: Colors.white,
+              backgroundColor: Colors.blue,
+              titleTextStyle: Theme.of(context).textTheme.titleLarge?.copyWith(
+                    color: Colors.white,
+                  ),
+            ),
+            cardTheme: const CardTheme(
+              elevation: 4,
+            ),
+          ),
+          home: const SplashView(),
+        ),
       ),
-      home: const FetchMoreWidget(),
     );
   }
 }
