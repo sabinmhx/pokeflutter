@@ -1,4 +1,4 @@
-# PokeFlutter: Pokemon App in Flutter
+# Pokeflutter: Pokemon App in Flutter
 
 📱 Install PokeFlutter now and start your journey to become a Pokemon Master! Gotta catch 'em all! 🌟
 
@@ -47,11 +47,6 @@ Follow these steps to run the PokeFlutter app on your device:
     <img alt="Home Page" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/screenshots/pokeflutter_home_page.png" width="200" height="400"/>
     <img alt="Details Page" src="https://raw.githubusercontent.com/sabinmhx/pokeflutter/master/screenshots/pokeflutter_details_page.png" width="200" height="400"/>
 </p>
-
-
-## 📄License
-
-PokeFlutter is open source and released under the [MIT License](LICENSE).
 
 ## 🙏Credits
 
